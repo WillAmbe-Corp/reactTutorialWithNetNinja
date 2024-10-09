@@ -1,0 +1,37 @@
+{
+    "blogs":[
+        {
+            "title": "Millionaie Mindset",
+            "body": "Why do we use it?\n It is a long established fact that a reader will love",
+            "author": "Ambe",
+            "id":1
+        },
+        {
+            "title": "Engineering SkillUp",
+            "body": "Why do we use it?\n It is a long established fact that a reader will love",
+            "author": "Light Yagami",
+            "id":2
+        },
+        {
+            "title":"Cameroon Tributes",
+            "author": "Will A.",
+            "content": "lorem ipsun...", 
+            "id": 3},
+         {
+            "title":"Engineering World", 
+            "author": "Eren", 
+            "content": "lorem ipsun...", 
+            "id": 4
+        },
+         {
+            "title":"The Seducer's Diary", 
+            "author": "John Doe", 
+            "content": "lorem ipsun...", 
+            "id": 5},
+         {
+            "title":"Life as A Wealthy Man", 
+            "author": "Will A.", 
+            "content": "lorem ipsun...", 
+            "id": 6}
+    ]   
+}
